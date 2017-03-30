@@ -1,0 +1,379 @@
+[ 2017-03-30T13:28:55+08:00 ] ::1 /Tp323/index.php/home/form/read/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001054s ]
+ERR: 非法操作:read
+
+[ 2017-03-30T13:28:58+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000902s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2017-03-30T13:31:33+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003620s ]
+ERR: 1146:Table 'think_form.think_data' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_data`
+ERR: 1146:Table 'think_form.think_data' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_data`
+
+[ 2017-03-30T13:32:20+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0134s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:32:31+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0079s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:32:32+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0035s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:40:39+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:40:40+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0016s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:40:41+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0082s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:40:42+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0077s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:42:09+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0027s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:42:11+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0025s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:42:27+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0082s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:42:28+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0118s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:42:50+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0019s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:42:52+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0086s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:43:01+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0022s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:43:42+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0023s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:44:00+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002125s ]
+
+[ 2017-03-30T13:44:05+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0083s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:44:06+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0085s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:52:01+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001520s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0032s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:52:10+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0018s ]
+NOTIC: [8] Undefined variable: id /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001211s ]
+
+[ 2017-03-30T13:52:23+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:52:52+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0083s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:52:53+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0021s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:55:05+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0045s ]
+NOTIC: [8] Undefined variable: Form /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 38 行.
+
+[ 2017-03-30T13:56:45+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0015s ]
+
+[ 2017-03-30T13:56:47+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0083s ]
+
+[ 2017-03-30T13:57:00+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0080s ]
+
+[ 2017-03-30T13:57:01+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001441s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0123s ]
+
+[ 2017-03-30T13:57:19+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0081s ]
+SQL: SELECT `title`,`content`,`create_time` FROM `think_form` WHERE ( id=1 )  [ RunTime:0.0027s ]
+NOTIC: [8] Undefined variable: id /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000982s ]
+
+[ 2017-03-30T13:57:20+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0083s ]
+SQL: SELECT `title`,`content`,`create_time` FROM `think_form` WHERE ( id=1 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: id /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000850s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000933s ]
+
+[ 2017-03-30T13:57:30+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0015s ]
+SQL: SELECT `title`,`content`,`create_time` FROM `think_form` WHERE ( id=22 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: id /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-03-30T13:57:31+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0015s ]
+SQL: SELECT `title`,`content`,`create_time` FROM `think_form` WHERE ( id=22 )  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: id /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000827s ]
+
+[ 2017-03-30T13:57:31+08:00 ] ::1 /Tp323/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+SQL: SHOW COLUMNS FROM `think_form` [ RunTime:0.0094s ]
+SQL: SELECT `title`,`content`,`create_time` FROM `think_form` WHERE ( id=22 )  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined variable: id /Applications/MAMP/htdocs/Tp323/App/Home/Controller/IndexController.class.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001635s ]
+
